@@ -10,8 +10,8 @@ class Bio extends SoftwareDeveloper {
   title    = 'Software Engineer';
   Age  = '14';
   location = 'Vaikom,
-               Kottatam,
-               Kerala';
+              Kottatam,
+              Kerala';
 }
 
 class Skills extends SoftwareDeveloper {
