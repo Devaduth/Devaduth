@@ -3,20 +3,22 @@
 </p>
 
 ```js
-import SoftwareDeveloper from 'thompsonemerson';
+import SoftwareDeveloper from 'Devaduth';
 
 class Bio extends SoftwareDeveloper {
-  name     = 'Emerson Thompson';
+  name     = 'KM Devaduth';
   title    = 'Software Engineer';
-  company  = 'Pipoca Digital | Remote';
-  location = 'Fortaleza, CE';
+  Age  = '14';
+  location = 'Vaikom,
+               Kottatam,
+               Kerala';
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP'];
-  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
+  languages  = ['JavaScript', 'HTML','', 'CSS'];
+  databases  = ['MongoDB'];
+  frameworks = ['React', 'Bootstrap','NodeJS'];
 }
 ```
 
-⭐️ From [thompsonemerson](https://github.com/thompsonemerson)
+⭐️ From [Devaduth](https://github.com/Devaduth)
